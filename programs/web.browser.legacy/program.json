@@ -1,0 +1,948 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "28044e223ae56721293bbd19d94a87f946328de9.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/28044e223ae56721293bbd19d94a87f946328de9.js?meteor_js_resource=true",
+      "replaceable": false,
+      "size": 10578037,
+      "hash": "28044e223ae56721293bbd19d94a87f946328de9",
+      "sri": "Q+KJ9RHVEpVTqZNSl6T8aI8+ms7ox72l+7D7dUD3PvUp+lp5q77zmbcOVZsWF2kY6vb1ZirOHK0uSnGGzJnE2w=="
+    },
+    {
+      "path": "28044e223ae56721293bbd19d94a87f946328de9.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/28044e223ae56721293bbd19d94a87f946328de9.stats.json?meteor_js_resource=true",
+      "size": 149342,
+      "hash": "c6e1935579141d2dde1077e567cfc2ed0691c530",
+      "sri": "+pN4c5YXRZCBqPFivp9NTxQjPj+p9h8/91BICvz878MsPNSQoIyVPazz3VJ0jtA0lDkh3UifR3/NmWNp1bV/BA=="
+    },
+    {
+      "path": "235d2b6835eb5673d89c81fe8234520540c246c9.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/235d2b6835eb5673d89c81fe8234520540c246c9.css?meteor_css_resource=true",
+      "size": 630556,
+      "hash": "235d2b6835eb5673d89c81fe8234520540c246c9",
+      "sri": "sTsa6SOVQva3iEndHZSNevTxrYLRacy0ORsjf2Ib9kfYH8HUJ6jcuWS8GtSN+XLNlmpZVu3UmVOT+7si2m5jQA=="
+    },
+    {
+      "path": "app/favicons/150x150px.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicons/150x150px.png",
+      "size": 17199,
+      "hash": "0b6921899a281abaca4380bbacffd201cd6795ce",
+      "sri": null
+    },
+    {
+      "path": "app/favicons/16x16cm.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicons/16x16cm.png",
+      "size": 3964,
+      "hash": "de9191e53ad7b478f368ba9c171c09fe440f5143",
+      "sri": null
+    },
+    {
+      "path": "app/favicons/32x32cm.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicons/32x32cm.png",
+      "size": 5480,
+      "hash": "bdc0f6f2da3d752b2b61c4c90c49ad451413e550",
+      "sri": null
+    },
+    {
+      "path": "app/favicons2/150x150px.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicons2/150x150px.png",
+      "size": 25354,
+      "hash": "86da5ade10cae0938010839919649ba598598cf1",
+      "sri": null
+    },
+    {
+      "path": "app/favicons2/16x16cm.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicons2/16x16cm.png",
+      "size": 626,
+      "hash": "69ffca6c2acc4cc3eb9f02de7f74782a0fa96f75",
+      "sri": null
+    },
+    {
+      "path": "app/favicons2/32x32cm.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicons2/32x32cm.png",
+      "size": 1587,
+      "hash": "7b11744587c465231a98abf5eccef2c742dda983",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Khmer OS Dangrek.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Khmer OS Dangrek.ttf",
+      "size": 231120,
+      "hash": "c7e0c3d8e97bc5f82a94515f562d53cf094eb97d",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/MaterialIcons-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MaterialIcons-Regular.woff2",
+      "size": 59000,
+      "hash": "3e6bedd3577e6933d03e3e8bf150c50b14e78c0d",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/element-icons.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/element-icons.ttf",
+      "size": 55956,
+      "hash": "3efc7e2403a1287d5bbdd5c78449f550be28e2b4",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/element-icons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/element-icons.woff",
+      "size": 28200,
+      "hash": "4a2876e5597175edec9924f1831da24f565a8a62",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2",
+      "size": 128352,
+      "hash": "693669988b8dda58cd2b21d4a6d90e1f12886aae",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/material-icons.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/material-icons.svg",
+      "size": 1119777,
+      "hash": "6e87576bb0ee75d8e24e46b4e9ea2bc944540cf0",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/material-icons.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/material-icons.ttf",
+      "size": 203700,
+      "hash": "f81df5474ff52f450022ff221ffb2ee7c9f2107a",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/material-icons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/material-icons.woff",
+      "size": 203780,
+      "hash": "8429126628f6ca2bde89baa1c87021244ee9bd08",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/materialdesignicons-webfont.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/materialdesignicons-webfont.woff2",
+      "size": 193408,
+      "hash": "b0e997252946b743fb63747b48906009e30a0214",
+      "sri": null
+    },
+    {
+      "path": "app/images/avatar.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/avatar.png",
+      "size": 27780,
+      "hash": "8441f83195070f9b983475e85283600f60601b20",
+      "sri": null
+    },
+    {
+      "path": "app/images/banner.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/banner.png",
+      "size": 419235,
+      "hash": "306fa95c3b8d2c0a446672e9d063ba29de6ee01a",
+      "sri": null
+    },
+    {
+      "path": "app/images/company.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/company.png",
+      "size": 128186,
+      "hash": "9761fc6ed61fdf7b537877285ed7dda4b020e83d",
+      "sri": null
+    },
+    {
+      "path": "app/images/km.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/km.png",
+      "size": 2033,
+      "hash": "84e192d02b5f449886cda7bf9cf3d259c9032f31",
+      "sri": null
+    },
+    {
+      "path": "app/images/ld.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/ld.png",
+      "size": 81233,
+      "hash": "0a87be5b04bc765004f1ab14ff616352f65b4156",
+      "sri": null
+    },
+    {
+      "path": "app/images/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/loader.gif",
+      "size": 175734,
+      "hash": "ff4940f4e695fdce806a43437e91f92ca40764b4",
+      "sri": null
+    },
+    {
+      "path": "app/images/locker.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/locker.png",
+      "size": 21874,
+      "hash": "b36183f4cef70363274fbb954a8d8071a020fb28",
+      "sri": null
+    },
+    {
+      "path": "app/images/login-1.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/login-1.png",
+      "size": 27456,
+      "hash": "fdc4583266690c9219d5c4e6322fe09650c3304c",
+      "sri": null
+    },
+    {
+      "path": "app/images/login.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/login.jpg",
+      "size": 370282,
+      "hash": "8891be50b809924a16b495259b9eea55ab64d59f",
+      "sri": null
+    },
+    {
+      "path": "app/images/login0.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/login0.jpg",
+      "size": 652018,
+      "hash": "829b5e9b1d691cc65c82a88c9328ddb3a484846c",
+      "sri": null
+    },
+    {
+      "path": "app/images/login2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/login2.jpg",
+      "size": 476226,
+      "hash": "327fbbc6cade88d48fb4ea004c86afdf3ee50e31",
+      "sri": null
+    },
+    {
+      "path": "app/images/login3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/login3.jpg",
+      "size": 827107,
+      "hash": "5814f19b0e66cac8ddda98b2bcb09d1d3c803bf3",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo.png",
+      "size": 55952,
+      "hash": "8d2426a6fc11432499e068274b16f7d869eca263",
+      "sri": null
+    },
+    {
+      "path": "app/images/man.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/man.png",
+      "size": 23810,
+      "hash": "690f95d8ec8c8fc8d0bad0f7b47a8411f2f11449",
+      "sri": null
+    },
+    {
+      "path": "app/images/no-img.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/no-img.png",
+      "size": 2741,
+      "hash": "ab0aff75bf363d78ac6bc3c0f717885c1e44953c",
+      "sri": null
+    },
+    {
+      "path": "app/images/paycode.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/paycode.png",
+      "size": 141966,
+      "hash": "f5197c881eace7b220a9576a6aced04e888817b9",
+      "sri": null
+    },
+    {
+      "path": "app/images/safari.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/safari.gif",
+      "size": 129672,
+      "hash": "86a3fe526c9aaa21c2cad5e204f8b798861d7980",
+      "sri": null
+    },
+    {
+      "path": "app/images/sidebar-1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/sidebar-1.jpg",
+      "size": 189310,
+      "hash": "4afae98bcddb91b19a6de63a7e56adb6b410e9cf",
+      "sri": null
+    },
+    {
+      "path": "app/images/sidebar-2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/sidebar-2.jpg",
+      "size": 393121,
+      "hash": "3b53a588940e489979c8ab2f4263e20a94baf40a",
+      "sri": null
+    },
+    {
+      "path": "app/images/sidebar-3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/sidebar-3.jpg",
+      "size": 377600,
+      "hash": "88d5acfa00e7f8ac810ba660b9b658d02f0c4ec8",
+      "sri": null
+    },
+    {
+      "path": "app/images/sidebar-4.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/sidebar-4.jpg",
+      "size": 386464,
+      "hash": "1e9438dac41025a761c2767369f564cb5e3a0500",
+      "sri": null
+    },
+    {
+      "path": "app/images/sidebar-5.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/sidebar-5.jpg",
+      "size": 343270,
+      "hash": "bf5118d4e784bc2ab0c8856ffa97deebfab68ab0",
+      "sri": null
+    },
+    {
+      "path": "app/images/sidebar-6.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/sidebar-6.jpg",
+      "size": 239551,
+      "hash": "1a6360e0ccd77735e27842131b28c85a0bbe841e",
+      "sri": null
+    },
+    {
+      "path": "app/images/sidebar-7.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/sidebar-7.jpg",
+      "size": 510294,
+      "hash": "2a9471ea1016f147a882d07e2f65aa0b9292e01a",
+      "sri": null
+    },
+    {
+      "path": "app/images/sidebar-8.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/sidebar-8.jpg",
+      "size": 423768,
+      "hash": "30d19c061a76c5406650faf906a948e7f396b1e1",
+      "sri": null
+    },
+    {
+      "path": "app/images/us.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/us.png",
+      "size": 2476,
+      "hash": "7920acba9b90435aeabce20c23579504152f3f9e",
+      "sri": null
+    },
+    {
+      "path": "app/images/woman.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/woman.png",
+      "size": 17813,
+      "hash": "dae28eafc0acea6352c892e172e8a5ca6153c187",
+      "sri": null
+    },
+    {
+      "path": "app/sound/the-calling.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/sound/the-calling.mp3",
+      "size": 78994,
+      "hash": "de817cb12b4fab90deb32084c592b50f6f3d565e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2",
+      "size": 1428,
+      "hash": "6e033817aacbf04cf771e02918d73ab61143c1f7",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2",
+      "size": 14688,
+      "hash": "61191124f4f5c59e8ebfb5ab798ebe9d0f79d50a",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2",
+      "size": 11804,
+      "hash": "d5342ac587918960c4ee3f5d392744ae953fca79",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2",
+      "size": 5388,
+      "hash": "8ddaad7762eae20a91e0b92c0a5dd61269464f61",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOkCnqEu92Fr1MmgVxIIzI.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOkCnqEu92Fr1MmgVxIIzI.woff2",
+      "size": 15764,
+      "hash": "4c61c2c88717a4f80fc3c2850a4efad540a25082",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2",
+      "size": 7012,
+      "hash": "a7a7cf167d95167ffcee3ddd66323705224aebb1",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2",
+      "size": 9180,
+      "hash": "8a9d722911067982d36f51fff47a67e9d081132c",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2",
+      "size": 9840,
+      "hash": "02869846debd733e8bd81801c7d7b4788baeac67",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "size": 15920,
+      "hash": "76964ef8eac982461e73c2c5849d51aec1c1ffc4",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2",
+      "size": 7016,
+      "hash": "4c759df2556412e5216a303dbf79697bab7241fd",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2",
+      "size": 1500,
+      "hash": "c1f8f791cb36ecdec2c7cd92188064b216c8fb1f",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2",
+      "size": 14968,
+      "hash": "cd561aeb27aedceaf9a62a7cf3a609da201b429d",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2",
+      "size": 11800,
+      "hash": "5f4a1e2d732e2a03bd06c183d73f33ab4a6279a6",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2",
+      "size": 5604,
+      "hash": "767fe6063c589751ea2cb0b4321f6d605e561cef",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2",
+      "size": 9576,
+      "hash": "d179db002bf7af36976686aa9fd53861115e3d8c",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmSU5fBBc4.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmSU5fBBc4.woff2",
+      "size": 15740,
+      "hash": "88d9d15e8f2f4d161ca7033c27a8e13221a773b5",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2",
+      "size": 7120,
+      "hash": "bae5b97b4689ad0c2903877f58883e14e5431670",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2",
+      "size": 1480,
+      "hash": "3c319a1090ac7b1ef5f6c4f5bb563ad001170aa8",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2",
+      "size": 15000,
+      "hash": "572a25d392dceb94bdf9ce0c32cb9ce3a8dd613a",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2",
+      "size": 11796,
+      "hash": "b5ed02b5bf96ed9c784777f14033946f505a0b6c",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2",
+      "size": 5468,
+      "hash": "71fed7af175fddb11495d2761a47fe292b74524b",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2",
+      "size": 9644,
+      "hash": "5bd4d18537acc8cdc1364fd912e97b9f911b32f1",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
+      "size": 15860,
+      "hash": "949b971e09ea9340ac467b11e2eac02f97553e5a",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2",
+      "size": 6936,
+      "hash": "312afdee1b536d08448f95660365e6f8bd49352c",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2",
+      "size": 1432,
+      "hash": "361bcb48c4ea5e6decfb0a5b3f39f4d89c8489ce",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2",
+      "size": 14684,
+      "hash": "381cf4bf38011ba3354a6fdd80de1c6737af3f51",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2",
+      "size": 11824,
+      "hash": "a54ef5e9b340f0a67c292bff086a7f81844029db",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2",
+      "size": 5548,
+      "hash": "edec294816c06f59117e1247e6be37d21abe2ae5",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2",
+      "size": 9700,
+      "hash": "4530027bf4fece14228e0645c3d75b96134eca65",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmYUtfBBc4.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmYUtfBBc4.woff2",
+      "size": 15752,
+      "hash": "019fe1888f416c05ef748dc708ef88a7453ec185",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2",
+      "size": 7040,
+      "hash": "b0290de43ff48fa82fceba09735474e6f47a9b04",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2",
+      "size": 1464,
+      "hash": "a77e5ed9599f7727aa1f31774b900d2300697f95",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2",
+      "size": 14856,
+      "hash": "a4814a12a6b4ce8cd0691c6ff31414a7f90a6437",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2",
+      "size": 11756,
+      "hash": "e239671469be01d83a0518866ab48c9de55c2fbf",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2",
+      "size": 5468,
+      "hash": "f2db577a6064f80e1d73d242f5252d32236cbc3c",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOmCnqEu92Fr1Mu4WxKOzY.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOmCnqEu92Fr1Mu4WxKOzY.woff2",
+      "size": 7112,
+      "hash": "1875079f840adac604151cddb6a3555e551f8520",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "size": 15744,
+      "hash": "1319a30553245bbca53ffaca024c699ccff47dd7",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOmCnqEu92Fr1Mu5mxKOzY.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOmCnqEu92Fr1Mu5mxKOzY.woff2",
+      "size": 9628,
+      "hash": "ab18da49a115de33e7e70b6c2417cc5d6bba549f",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOmCnqEu92Fr1Mu72xKOzY.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOmCnqEu92Fr1Mu72xKOzY.woff2",
+      "size": 15344,
+      "hash": "946761a45be40b7aebd6dc58483b79be34cd8713",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOmCnqEu92Fr1Mu7GxKOzY.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOmCnqEu92Fr1Mu7GxKOzY.woff2",
+      "size": 11872,
+      "hash": "83da52ae789aa00c49760d9e66bd1b62cc64190d",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOmCnqEu92Fr1Mu7WxKOzY.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOmCnqEu92Fr1Mu7WxKOzY.woff2",
+      "size": 5560,
+      "hash": "18f55392cd0bad8b2d92321fbc54fc090d9567dc",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/google/KFOmCnqEu92Fr1Mu7mxKOzY.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/google/KFOmCnqEu92Fr1Mu7mxKOzY.woff2",
+      "size": 1484,
+      "hash": "d7fdb37b9a0f4fd0351200bd2a9895bf793edb84",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/khmer/Battambang.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/khmer/Battambang.ttf",
+      "size": 357868,
+      "hash": "03c3901bcf0828b3c57a8d4f3cf6429edfb5a48f",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/khmer/KHMERMEF1.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/khmer/KHMERMEF1.ttf",
+      "size": 241308,
+      "hash": "15d67d6b9400bb2fd4a43bc0fa4a9ebda0d57748",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/khmer/KHMERMEF2.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/khmer/KHMERMEF2.ttf",
+      "size": 316912,
+      "hash": "a2db3b0c52afd2040a0d9a3c7e650eedf2d43e02",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/khmer/KhmerOSMuolLight.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/khmer/KhmerOSMuolLight.ttf",
+      "size": 222312,
+      "hash": "951c48d97a82b475bfb2029b01b478b1e07c0d48",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/khmer/tacteing.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/khmer/tacteing.ttf",
+      "size": 200892,
+      "hash": "9ca12a70c736b0601fbb7c7a94d469a20563f3ab",
+      "sri": null
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "83f9eacbaa403217d4ff76f2b14d49224525d717"
+    },
+    {
+      "path": "body.html",
+      "where": "internal",
+      "type": "body",
+      "hash": "1b433f33b806b0ddfe84c13b41b6b68881ee49ec"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "username": "super",
+    "email": "super@gmail.com",
+    "password": "code@123#",
+    "profile": {
+      "fullName": "Super",
+      "approved": true
+    },
+    "roles": [
+      "Super",
+      "Admin",
+      "Control User"
+    ]
+  },
+  {
+    "username": "admin",
+    "email": "admin@gmail.com",
+    "password": "123456$",
+    "profile": {
+      "fullName": "Admin",
+      "approved": true
+    },
+    "roles": [
+      "Admin",
+      "Control User"
+    ]
+  }
+]
+
+

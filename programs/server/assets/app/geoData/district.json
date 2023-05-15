@@ -1,0 +1,2235 @@
+[
+  {
+    "properties": {
+      "NAME1": "ក្រចេះ",
+      "NAME_ENG1": "Kratie",
+      "NAME2": "ឆ្លូង",
+      "NAME_ENG2": "Chhloung",
+      "ADMIN_ID1": "10",
+      "ADMIN_ID2": "1001",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ក្រចេះ",
+      "NAME_ENG1": "Kratie",
+      "NAME2": "ក្រចេះ",
+      "NAME_ENG2": "Kracheh",
+      "ADMIN_ID1": "10",
+      "ADMIN_ID2": "1002",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ក្រចេះ",
+      "NAME_ENG1": "Kratie",
+      "NAME2": "ព្រែកប្រសព្វ",
+      "NAME_ENG2": "Prek Prasab",
+      "ADMIN_ID1": "10",
+      "ADMIN_ID2": "1003",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ក្រចេះ",
+      "NAME_ENG1": "Kratie",
+      "NAME2": "សំបូរ",
+      "NAME_ENG2": "Sambour",
+      "ADMIN_ID1": "10",
+      "ADMIN_ID2": "1004",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ក្រចេះ",
+      "NAME_ENG1": "Kratie",
+      "NAME2": "ស្នួល",
+      "NAME_ENG2": "Snuol",
+      "ADMIN_ID1": "10",
+      "ADMIN_ID2": "1005",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ក្រចេះ",
+      "NAME_ENG1": "Kratie",
+      "NAME2": "ចិត្របុរី",
+      "NAME_ENG2": "Chetr Borei",
+      "ADMIN_ID1": "10",
+      "ADMIN_ID2": "1006",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "មណ្ឌលគិរី",
+      "NAME_ENG1": "Mondul Kiri",
+      "NAME2": "កែវសីមា",
+      "NAME_ENG2": "Kaev Seima",
+      "ADMIN_ID1": "11",
+      "ADMIN_ID2": "1101",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "មណ្ឌលគិរី",
+      "NAME_ENG1": "Mondul Kiri",
+      "NAME2": "កោះញែក",
+      "NAME_ENG2": "Kaoh Nheaek",
+      "ADMIN_ID1": "11",
+      "ADMIN_ID2": "1102",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "មណ្ឌលគិរី",
+      "NAME_ENG1": "Mondul Kiri",
+      "NAME2": "អូររាំង",
+      "NAME_ENG2": "Ou Reang",
+      "ADMIN_ID1": "11",
+      "ADMIN_ID2": "1103",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "មណ្ឌលគិរី",
+      "NAME_ENG1": "Mondul Kiri",
+      "NAME2": "ពេជ្រាដា",
+      "NAME_ENG2": "Pech Chreada",
+      "ADMIN_ID1": "11",
+      "ADMIN_ID2": "1104",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "មណ្ឌលគិរី",
+      "NAME_ENG1": "Mondul Kiri",
+      "NAME2": "សែនមនោរម្យ",
+      "NAME_ENG2": "Saen Monourom",
+      "ADMIN_ID1": "11",
+      "ADMIN_ID2": "1105",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ភ្នំពេញ",
+      "NAME_ENG1": "Phnom Penh",
+      "NAME2": "ចំការមន",
+      "NAME_ENG2": "Chamkar Mon",
+      "ADMIN_ID1": "12",
+      "ADMIN_ID2": "1201",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ភ្នំពេញ",
+      "NAME_ENG1": "Phnom Penh",
+      "NAME2": "ដូនពេញ",
+      "NAME_ENG2": "Doun Penh",
+      "ADMIN_ID1": "12",
+      "ADMIN_ID2": "1202",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ភ្នំពេញ",
+      "NAME_ENG1": "Phnom Penh",
+      "NAME2": "៧មករា",
+      "NAME_ENG2": "Prampir Meakkakra",
+      "ADMIN_ID1": "12",
+      "ADMIN_ID2": "1203",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ភ្នំពេញ",
+      "NAME_ENG1": "Phnom Penh",
+      "NAME2": "ទួលគោក",
+      "NAME_ENG2": "Tuol Kouk",
+      "ADMIN_ID1": "12",
+      "ADMIN_ID2": "1204",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ភ្នំពេញ",
+      "NAME_ENG1": "Phnom Penh",
+      "NAME2": "ដង្កោ",
+      "NAME_ENG2": "Dangkao",
+      "ADMIN_ID1": "12",
+      "ADMIN_ID2": "1205",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ភ្នំពេញ",
+      "NAME_ENG1": "Phnom Penh",
+      "NAME2": "មានជ័យ",
+      "NAME_ENG2": "Mean Chey",
+      "ADMIN_ID1": "12",
+      "ADMIN_ID2": "1206",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ភ្នំពេញ",
+      "NAME_ENG1": "Phnom Penh",
+      "NAME2": "ឫស្សីកែវ",
+      "NAME_ENG2": "Russey Keo",
+      "ADMIN_ID1": "12",
+      "ADMIN_ID2": "1207",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ភ្នំពេញ",
+      "NAME_ENG1": "Phnom Penh",
+      "NAME2": "សែនសុខ",
+      "NAME_ENG2": "Saensokh",
+      "ADMIN_ID1": "12",
+      "ADMIN_ID2": "1208",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ភ្នំពេញ",
+      "NAME_ENG1": "Phnom Penh",
+      "NAME2": "ពោធិ៍សែនជ័យ",
+      "NAME_ENG2": "Pur SenChey",
+      "ADMIN_ID1": "12",
+      "ADMIN_ID2": "1209",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ភ្នំពេញ",
+      "NAME_ENG1": "Phnom Penh",
+      "NAME2": "ជ្រោយចង្វារ",
+      "NAME_ENG2": "Chraoy Chongvar",
+      "ADMIN_ID1": "12",
+      "ADMIN_ID2": "1210",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ភ្នំពេញ",
+      "NAME_ENG1": "Phnom Penh",
+      "NAME2": "ព្រែកព្នៅ",
+      "NAME_ENG2": "Praek Pnov",
+      "ADMIN_ID1": "12",
+      "ADMIN_ID2": "1211",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ភ្នំពេញ",
+      "NAME_ENG1": "Phnom Penh",
+      "NAME2": "ច្បារអំពៅ",
+      "NAME_ENG2": "Chbar Ampov",
+      "ADMIN_ID1": "12",
+      "ADMIN_ID2": "1212",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ភ្នំពេញ",
+      "NAME_ENG1": "Phnom Penh",
+      "NAME2": "បឹងកេងកង",
+      "NAME_ENG2": "Boeng Keng Kang",
+      "ADMIN_ID1": "12",
+      "ADMIN_ID2": "1213",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ភ្នំពេញ",
+      "NAME_ENG1": "Phnom Penh",
+      "NAME2": "កំបូល",
+      "NAME_ENG2": "Kamboul",
+      "ADMIN_ID1": "12",
+      "ADMIN_ID2": "1214",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រះវិហារ",
+      "NAME_ENG1": "Preah Vihear",
+      "NAME2": "ជ័យសែន",
+      "NAME_ENG2": "Chey Saen",
+      "ADMIN_ID1": "13",
+      "ADMIN_ID2": "1301",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រះវិហារ",
+      "NAME_ENG1": "Preah Vihear",
+      "NAME2": "ឆែប",
+      "NAME_ENG2": "Chhaeb",
+      "ADMIN_ID1": "13",
+      "ADMIN_ID2": "1302",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រះវិហារ",
+      "NAME_ENG1": "Preah Vihear",
+      "NAME2": "ជាំក្សាន្ដ",
+      "NAME_ENG2": "Choam Ksant",
+      "ADMIN_ID1": "13",
+      "ADMIN_ID2": "1303",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រះវិហារ",
+      "NAME_ENG1": "Preah Vihear",
+      "NAME2": "គូលែន",
+      "NAME_ENG2": "Kuleaen",
+      "ADMIN_ID1": "13",
+      "ADMIN_ID2": "1304",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រះវិហារ",
+      "NAME_ENG1": "Preah Vihear",
+      "NAME2": "រវៀង",
+      "NAME_ENG2": "Rovieng",
+      "ADMIN_ID1": "13",
+      "ADMIN_ID2": "1305",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រះវិហារ",
+      "NAME_ENG1": "Preah Vihear",
+      "NAME2": "សង្គមថ្មី",
+      "NAME_ENG2": "Sangkum Thmei",
+      "ADMIN_ID1": "13",
+      "ADMIN_ID2": "1306",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រះវិហារ",
+      "NAME_ENG1": "Preah Vihear",
+      "NAME2": "ត្បែងមានជ័យ",
+      "NAME_ENG2": "Tbaeng Mean Chey",
+      "ADMIN_ID1": "13",
+      "ADMIN_ID2": "1307",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រះវិហារ",
+      "NAME_ENG1": "Preah Vihear",
+      "NAME2": "ព្រះវិហារ",
+      "NAME_ENG2": "Preah Vihear",
+      "ADMIN_ID1": "13",
+      "ADMIN_ID2": "1308",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រៃវែង",
+      "NAME_ENG1": "Prey Veng",
+      "NAME2": "បាភ្នំ",
+      "NAME_ENG2": "Ba Phnum",
+      "ADMIN_ID1": "14",
+      "ADMIN_ID2": "1401",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រៃវែង",
+      "NAME_ENG1": "Prey Veng",
+      "NAME2": "កំចាយមារ",
+      "NAME_ENG2": "Kamchay Mear",
+      "ADMIN_ID1": "14",
+      "ADMIN_ID2": "1402",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រៃវែង",
+      "NAME_ENG1": "Prey Veng",
+      "NAME2": "កំពង់ត្របែក",
+      "NAME_ENG2": "Kampong Trabaek",
+      "ADMIN_ID1": "14",
+      "ADMIN_ID2": "1403",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រៃវែង",
+      "NAME_ENG1": "Prey Veng",
+      "NAME2": "កញ្ជ្រៀច",
+      "NAME_ENG2": "Kanhchriech",
+      "ADMIN_ID1": "14",
+      "ADMIN_ID2": "1404",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រៃវែង",
+      "NAME_ENG1": "Prey Veng",
+      "NAME2": "មេសាង",
+      "NAME_ENG2": "Me Sang",
+      "ADMIN_ID1": "14",
+      "ADMIN_ID2": "1405",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រៃវែង",
+      "NAME_ENG1": "Prey Veng",
+      "NAME2": "ពាមជរ",
+      "NAME_ENG2": "Peam Chor",
+      "ADMIN_ID1": "14",
+      "ADMIN_ID2": "1406",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រៃវែង",
+      "NAME_ENG1": "Prey Veng",
+      "NAME2": "ពាមរក៍",
+      "NAME_ENG2": "Peam Ro",
+      "ADMIN_ID1": "14",
+      "ADMIN_ID2": "1407",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រៃវែង",
+      "NAME_ENG1": "Prey Veng",
+      "NAME2": "ពារាំង",
+      "NAME_ENG2": "Pea Reang",
+      "ADMIN_ID1": "14",
+      "ADMIN_ID2": "1408",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រៃវែង",
+      "NAME_ENG1": "Prey Veng",
+      "NAME2": "ព្រះស្ដេច",
+      "NAME_ENG2": "Preah Sdach",
+      "ADMIN_ID1": "14",
+      "ADMIN_ID2": "1409",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រៃវែង",
+      "NAME_ENG1": "Prey Veng",
+      "NAME2": "ព្រៃវែង",
+      "NAME_ENG2": "Prey Veng",
+      "ADMIN_ID1": "14",
+      "ADMIN_ID2": "1410",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រៃវែង",
+      "NAME_ENG1": "Prey Veng",
+      "NAME2": "ពោធិ៍រៀង",
+      "NAME_ENG2": "Pur Rieng",
+      "ADMIN_ID1": "14",
+      "ADMIN_ID2": "1411",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រៃវែង",
+      "NAME_ENG1": "Prey Veng",
+      "NAME2": "ស៊ីធរកណ្ដាល",
+      "NAME_ENG2": "Sithor Kandal",
+      "ADMIN_ID1": "14",
+      "ADMIN_ID2": "1412",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រៃវែង",
+      "NAME_ENG1": "Prey Veng",
+      "NAME2": "ស្វាយអន្ទរ",
+      "NAME_ENG2": "Svay Antor",
+      "ADMIN_ID1": "14",
+      "ADMIN_ID2": "1413",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ពោធិ៍សាត់",
+      "NAME_ENG1": "Pursat",
+      "NAME2": "បាកាន",
+      "NAME_ENG2": "Bakan",
+      "ADMIN_ID1": "15",
+      "ADMIN_ID2": "1501",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ពោធិ៍សាត់",
+      "NAME_ENG1": "Pursat",
+      "NAME2": "កណ្ដៀង",
+      "NAME_ENG2": "Kandieng",
+      "ADMIN_ID1": "15",
+      "ADMIN_ID2": "1502",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ពោធិ៍សាត់",
+      "NAME_ENG1": "Pursat",
+      "NAME2": "ក្រគរ",
+      "NAME_ENG2": "Krakor",
+      "ADMIN_ID1": "15",
+      "ADMIN_ID2": "1503",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ពោធិ៍សាត់",
+      "NAME_ENG1": "Pursat",
+      "NAME2": "ភ្នំក្រវ៉ាញ",
+      "NAME_ENG2": "Phnum Kravanh",
+      "ADMIN_ID1": "15",
+      "ADMIN_ID2": "1504",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ពោធិ៍សាត់",
+      "NAME_ENG1": "Pursat",
+      "NAME2": "ពោធិ៍សាត់",
+      "NAME_ENG2": "Pursat",
+      "ADMIN_ID1": "15",
+      "ADMIN_ID2": "1505",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ពោធិ៍សាត់",
+      "NAME_ENG1": "Pursat",
+      "NAME2": "វាលវែង",
+      "NAME_ENG2": "Veal Veaeng",
+      "ADMIN_ID1": "15",
+      "ADMIN_ID2": "1506",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ពោធិ៍សាត់",
+      "NAME_ENG1": "Pursat",
+      "NAME2": "តាលោសែនជ័យ",
+      "NAME_ENG2": "Ta Lou Senchey",
+      "ADMIN_ID1": "15",
+      "ADMIN_ID2": "1507",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "រតនគិរី",
+      "NAME_ENG1": "Ratanak Kiri",
+      "NAME2": "អណ្ដូងមាស",
+      "NAME_ENG2": "Andoung Meas",
+      "ADMIN_ID1": "16",
+      "ADMIN_ID2": "1601",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "រតនគិរី",
+      "NAME_ENG1": "Ratanak Kiri",
+      "NAME2": "បានលុង",
+      "NAME_ENG2": "Ban Lung",
+      "ADMIN_ID1": "16",
+      "ADMIN_ID2": "1602",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "រតនគិរី",
+      "NAME_ENG1": "Ratanak Kiri",
+      "NAME2": "បរកែវ",
+      "NAME_ENG2": "Bar Kaev",
+      "ADMIN_ID1": "16",
+      "ADMIN_ID2": "1603",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "រតនគិរី",
+      "NAME_ENG1": "Ratanak Kiri",
+      "NAME2": "កូនមុំ",
+      "NAME_ENG2": "Koun Mom",
+      "ADMIN_ID1": "16",
+      "ADMIN_ID2": "1604",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "រតនគិរី",
+      "NAME_ENG1": "Ratanak Kiri",
+      "NAME2": "លំផាត់",
+      "NAME_ENG2": "Lumphat",
+      "ADMIN_ID1": "16",
+      "ADMIN_ID2": "1605",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "រតនគិរី",
+      "NAME_ENG1": "Ratanak Kiri",
+      "NAME2": "អូរជុំ",
+      "NAME_ENG2": "Ou Chum",
+      "ADMIN_ID1": "16",
+      "ADMIN_ID2": "1606",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "រតនគិរី",
+      "NAME_ENG1": "Ratanak Kiri",
+      "NAME2": "អូរយ៉ាដាវ",
+      "NAME_ENG2": "Ou Ya Dav",
+      "ADMIN_ID1": "16",
+      "ADMIN_ID2": "1607",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "រតនគិរី",
+      "NAME_ENG1": "Ratanak Kiri",
+      "NAME2": "តាវែង",
+      "NAME_ENG2": "Ta Veaeng",
+      "ADMIN_ID1": "16",
+      "ADMIN_ID2": "1608",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "រតនគិរី",
+      "NAME_ENG1": "Ratanak Kiri",
+      "NAME2": "វើនសៃ",
+      "NAME_ENG2": "Veun Sai",
+      "ADMIN_ID1": "16",
+      "ADMIN_ID2": "1609",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "សៀមរាប",
+      "NAME_ENG1": "Siemreap",
+      "NAME2": "អង្គរជុំ",
+      "NAME_ENG2": "Angkor Chum",
+      "ADMIN_ID1": "17",
+      "ADMIN_ID2": "1701",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "សៀមរាប",
+      "NAME_ENG1": "Siemreap",
+      "NAME2": "អង្គរធំ",
+      "NAME_ENG2": "Angkor Thum",
+      "ADMIN_ID1": "17",
+      "ADMIN_ID2": "1702",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "សៀមរាប",
+      "NAME_ENG1": "Siemreap",
+      "NAME2": "បន្ទាយស្រី",
+      "NAME_ENG2": "Banteay Srei",
+      "ADMIN_ID1": "17",
+      "ADMIN_ID2": "1703",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "សៀមរាប",
+      "NAME_ENG1": "Siemreap",
+      "NAME2": "ជីក្រែង",
+      "NAME_ENG2": "Chi Kraeng",
+      "ADMIN_ID1": "17",
+      "ADMIN_ID2": "1704",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "សៀមរាប",
+      "NAME_ENG1": "Siemreap",
+      "NAME2": "ក្រឡាញ់",
+      "NAME_ENG2": "Kralanh",
+      "ADMIN_ID1": "17",
+      "ADMIN_ID2": "1706",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "សៀមរាប",
+      "NAME_ENG1": "Siemreap",
+      "NAME2": "ពួក",
+      "NAME_ENG2": "Puok",
+      "ADMIN_ID1": "17",
+      "ADMIN_ID2": "1707",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "សៀមរាប",
+      "NAME_ENG1": "Siemreap",
+      "NAME2": "ប្រាសាទបាគង",
+      "NAME_ENG2": "Prasat Bakong",
+      "ADMIN_ID1": "17",
+      "ADMIN_ID2": "1709",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "សៀមរាប",
+      "NAME_ENG1": "Siemreap",
+      "NAME2": "សៀមរាប",
+      "NAME_ENG2": "Siem Reap",
+      "ADMIN_ID1": "17",
+      "ADMIN_ID2": "1710",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "សៀមរាប",
+      "NAME_ENG1": "Siemreap",
+      "NAME2": "សូទ្រនិគម",
+      "NAME_ENG2": "Soutr Nikom",
+      "ADMIN_ID1": "17",
+      "ADMIN_ID2": "1711",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "សៀមរាប",
+      "NAME_ENG1": "Siemreap",
+      "NAME2": "ស្រីស្នំ",
+      "NAME_ENG2": "Srei Snam",
+      "ADMIN_ID1": "17",
+      "ADMIN_ID2": "1712",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "សៀមរាប",
+      "NAME_ENG1": "Siemreap",
+      "NAME2": "ស្វាយលើ",
+      "NAME_ENG2": "Svay Leu",
+      "ADMIN_ID1": "17",
+      "ADMIN_ID2": "1713",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "សៀមរាប",
+      "NAME_ENG1": "Siemreap",
+      "NAME2": "វ៉ារិន",
+      "NAME_ENG2": "Varin",
+      "ADMIN_ID1": "17",
+      "ADMIN_ID2": "1714",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រះសីហនុ",
+      "NAME_ENG1": "Preah Sihanouk",
+      "NAME2": "ព្រះសីហនុ",
+      "NAME_ENG2": "Preah Sihanouk",
+      "ADMIN_ID1": "18",
+      "ADMIN_ID2": "1801",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រះសីហនុ",
+      "NAME_ENG1": "Preah Sihanouk",
+      "NAME2": "ព្រៃនប់",
+      "NAME_ENG2": "Prey Nob",
+      "ADMIN_ID1": "18",
+      "ADMIN_ID2": "1802",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រះសីហនុ",
+      "NAME_ENG1": "Preah Sihanouk",
+      "NAME2": "ស្ទឹងហាវ",
+      "NAME_ENG2": "Stueng Hav",
+      "ADMIN_ID1": "18",
+      "ADMIN_ID2": "1803",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រះសីហនុ",
+      "NAME_ENG1": "Preah Sihanouk",
+      "NAME2": "កំពង់សីលា",
+      "NAME_ENG2": "Kampong Seila",
+      "ADMIN_ID1": "18",
+      "ADMIN_ID2": "1804",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ព្រះសីហនុ",
+      "NAME_ENG1": "Preah Sihanouk",
+      "NAME2": "កោះរ៉ុង",
+      "NAME_ENG2": "Kaoh Rung",
+      "ADMIN_ID1": "18",
+      "ADMIN_ID2": "1805",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ស្ទឹងត្រែង",
+      "NAME_ENG1": "Stung Treng",
+      "NAME2": "សេសាន",
+      "NAME_ENG2": "Sesan",
+      "ADMIN_ID1": "19",
+      "ADMIN_ID2": "1901",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ស្ទឹងត្រែង",
+      "NAME_ENG1": "Stung Treng",
+      "NAME2": "សៀមបូក",
+      "NAME_ENG2": "Siem Bouk",
+      "ADMIN_ID1": "19",
+      "ADMIN_ID2": "1902",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ស្ទឹងត្រែង",
+      "NAME_ENG1": "Stung Treng",
+      "NAME2": "សៀមប៉ាង",
+      "NAME_ENG2": "Siem Pang",
+      "ADMIN_ID1": "19",
+      "ADMIN_ID2": "1903",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ស្ទឹងត្រែង",
+      "NAME_ENG1": "Stung Treng",
+      "NAME2": "ស្ទឹងត្រែង",
+      "NAME_ENG2": "Stueng Traeng",
+      "ADMIN_ID1": "19",
+      "ADMIN_ID2": "1904",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ស្ទឹងត្រែង",
+      "NAME_ENG1": "Stung Treng",
+      "NAME2": "ថាឡាបរិវ៉ាត់",
+      "NAME_ENG2": "Thala Barivat",
+      "ADMIN_ID1": "19",
+      "ADMIN_ID2": "1905",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ស្ទឹងត្រែង",
+      "NAME_ENG1": "Stung Treng",
+      "NAME2": "បុរីអូរស្វាយសែនជ័យ",
+      "NAME_ENG2": "Borei Ou Svay Senchey",
+      "ADMIN_ID1": "19",
+      "ADMIN_ID2": "1906",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ស្វាយរៀង",
+      "NAME_ENG1": "Svay Rieng",
+      "NAME2": "ចន្ទ្រា",
+      "NAME_ENG2": "Chantrea",
+      "ADMIN_ID1": "20",
+      "ADMIN_ID2": "2001",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ស្វាយរៀង",
+      "NAME_ENG1": "Svay Rieng",
+      "NAME2": "កំពង់រោទិ៍",
+      "NAME_ENG2": "Kampong Rou",
+      "ADMIN_ID1": "20",
+      "ADMIN_ID2": "2002",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ស្វាយរៀង",
+      "NAME_ENG1": "Svay Rieng",
+      "NAME2": "រំដួល",
+      "NAME_ENG2": "Rumduol",
+      "ADMIN_ID1": "20",
+      "ADMIN_ID2": "2003",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ស្វាយរៀង",
+      "NAME_ENG1": "Svay Rieng",
+      "NAME2": "រមាសហែក",
+      "NAME_ENG2": "Romeas Haek",
+      "ADMIN_ID1": "20",
+      "ADMIN_ID2": "2004",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ស្វាយរៀង",
+      "NAME_ENG1": "Svay Rieng",
+      "NAME2": "ស្វាយជ្រំ",
+      "NAME_ENG2": "Svay Chrum",
+      "ADMIN_ID1": "20",
+      "ADMIN_ID2": "2005",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ស្វាយរៀង",
+      "NAME_ENG1": "Svay Rieng",
+      "NAME2": "ស្វាយរៀង",
+      "NAME_ENG2": "Svay Rieng",
+      "ADMIN_ID1": "20",
+      "ADMIN_ID2": "2006",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ស្វាយរៀង",
+      "NAME_ENG1": "Svay Rieng",
+      "NAME2": "ស្វាយទាប",
+      "NAME_ENG2": "Svay Teab",
+      "ADMIN_ID1": "20",
+      "ADMIN_ID2": "2007",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ស្វាយរៀង",
+      "NAME_ENG1": "Svay Rieng",
+      "NAME2": "បាវិត",
+      "NAME_ENG2": "Bavet",
+      "ADMIN_ID1": "20",
+      "ADMIN_ID2": "2008",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "តាកែវ",
+      "NAME_ENG1": "Takeo",
+      "NAME2": "អង្គរបូរី",
+      "NAME_ENG2": "Angkor Borei",
+      "ADMIN_ID1": "21",
+      "ADMIN_ID2": "2101",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "តាកែវ",
+      "NAME_ENG1": "Takeo",
+      "NAME2": "បាទី",
+      "NAME_ENG2": "Bati",
+      "ADMIN_ID1": "21",
+      "ADMIN_ID2": "2102",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "តាកែវ",
+      "NAME_ENG1": "Takeo",
+      "NAME2": "បូរីជលសារ",
+      "NAME_ENG2": "Borei Cholsar",
+      "ADMIN_ID1": "21",
+      "ADMIN_ID2": "2103",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "តាកែវ",
+      "NAME_ENG1": "Takeo",
+      "NAME2": "គីរីវង់",
+      "NAME_ENG2": "Kiri Vong",
+      "ADMIN_ID1": "21",
+      "ADMIN_ID2": "2104",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "តាកែវ",
+      "NAME_ENG1": "Takeo",
+      "NAME2": "កោះអណ្ដែត",
+      "NAME_ENG2": "Kaoh Andaet",
+      "ADMIN_ID1": "21",
+      "ADMIN_ID2": "2105",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "តាកែវ",
+      "NAME_ENG1": "Takeo",
+      "NAME2": "ព្រៃកប្បាស",
+      "NAME_ENG2": "Prey Kabbas",
+      "ADMIN_ID1": "21",
+      "ADMIN_ID2": "2106",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "តាកែវ",
+      "NAME_ENG1": "Takeo",
+      "NAME2": "សំរោង",
+      "NAME_ENG2": "Samraong",
+      "ADMIN_ID1": "21",
+      "ADMIN_ID2": "2107",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "តាកែវ",
+      "NAME_ENG1": "Takeo",
+      "NAME2": "ដូនកែវ",
+      "NAME_ENG2": "Doun Kaev",
+      "ADMIN_ID1": "21",
+      "ADMIN_ID2": "2108",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "តាកែវ",
+      "NAME_ENG1": "Takeo",
+      "NAME2": "ត្រាំកក់",
+      "NAME_ENG2": "Tram Kak",
+      "ADMIN_ID1": "21",
+      "ADMIN_ID2": "2109",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "តាកែវ",
+      "NAME_ENG1": "Takeo",
+      "NAME2": "ទ្រាំង",
+      "NAME_ENG2": "Treang",
+      "ADMIN_ID1": "21",
+      "ADMIN_ID2": "2110",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ឧត្ដរមានជ័យ",
+      "NAME_ENG1": "Oddar Meanchey",
+      "NAME2": "អន្លង់វែង",
+      "NAME_ENG2": "Anlong Veaeng",
+      "ADMIN_ID1": "22",
+      "ADMIN_ID2": "2201",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ឧត្ដរមានជ័យ",
+      "NAME_ENG1": "Oddar Meanchey",
+      "NAME2": "បន្ទាយអំពិល",
+      "NAME_ENG2": "Banteay Ampil",
+      "ADMIN_ID1": "22",
+      "ADMIN_ID2": "2202",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ឧត្ដរមានជ័យ",
+      "NAME_ENG1": "Oddar Meanchey",
+      "NAME2": "ចុងកាល់",
+      "NAME_ENG2": "Chong Kal",
+      "ADMIN_ID1": "22",
+      "ADMIN_ID2": "2203",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ឧត្ដរមានជ័យ",
+      "NAME_ENG1": "Oddar Meanchey",
+      "NAME2": "សំរោង",
+      "NAME_ENG2": "Samraong",
+      "ADMIN_ID1": "22",
+      "ADMIN_ID2": "2204",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ឧត្ដរមានជ័យ",
+      "NAME_ENG1": "Oddar Meanchey",
+      "NAME2": "ត្រពាំងប្រាសាទ",
+      "NAME_ENG2": "Trapeang Prasat",
+      "ADMIN_ID1": "22",
+      "ADMIN_ID2": "2205",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កែប",
+      "NAME_ENG1": "Kep",
+      "NAME2": "ដំណាក់ចង្អើរ",
+      "NAME_ENG2": "Damnak Chang'aeur",
+      "ADMIN_ID1": "23",
+      "ADMIN_ID2": "2301",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កែប",
+      "NAME_ENG1": "Kep",
+      "NAME2": "កែប",
+      "NAME_ENG2": "Kaeb",
+      "ADMIN_ID1": "23",
+      "ADMIN_ID2": "2302",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ប៉ៃលិន",
+      "NAME_ENG1": "Pailin",
+      "NAME2": "ប៉ៃលិន",
+      "NAME_ENG2": "Pailin",
+      "ADMIN_ID1": "24",
+      "ADMIN_ID2": "2401",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ប៉ៃលិន",
+      "NAME_ENG1": "Pailin",
+      "NAME2": "សាលាក្រៅ",
+      "NAME_ENG2": "Sala Krau",
+      "ADMIN_ID1": "24",
+      "ADMIN_ID2": "2402",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ត្បូងឃ្មុំ",
+      "NAME_ENG1": "Tboung Khmum",
+      "NAME2": "តំបែរ",
+      "NAME_ENG2": "Dambae",
+      "ADMIN_ID1": "25",
+      "ADMIN_ID2": "2501",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ត្បូងឃ្មុំ",
+      "NAME_ENG1": "Tboung Khmum",
+      "NAME2": "ក្រូចឆ្មារ",
+      "NAME_ENG2": "Krouch Chhmar",
+      "ADMIN_ID1": "25",
+      "ADMIN_ID2": "2502",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ត្បូងឃ្មុំ",
+      "NAME_ENG1": "Tboung Khmum",
+      "NAME2": "មេមត់",
+      "NAME_ENG2": "Memot",
+      "ADMIN_ID1": "25",
+      "ADMIN_ID2": "2503",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ត្បូងឃ្មុំ",
+      "NAME_ENG1": "Tboung Khmum",
+      "NAME2": "អូររាំងឪ",
+      "NAME_ENG2": "Ou Reang Ov",
+      "ADMIN_ID1": "25",
+      "ADMIN_ID2": "2504",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ត្បូងឃ្មុំ",
+      "NAME_ENG1": "Tboung Khmum",
+      "NAME2": "ពញាក្រែក",
+      "NAME_ENG2": "Ponhea Kraek",
+      "ADMIN_ID1": "25",
+      "ADMIN_ID2": "2505",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ត្បូងឃ្មុំ",
+      "NAME_ENG1": "Tboung Khmum",
+      "NAME2": "សួង",
+      "NAME_ENG2": "Suong",
+      "ADMIN_ID1": "25",
+      "ADMIN_ID2": "2506",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "ត្បូងឃ្មុំ",
+      "NAME_ENG1": "Tboung Khmum",
+      "NAME2": "ត្បូងឃ្មុំ",
+      "NAME_ENG2": "Tboung Khmum",
+      "ADMIN_ID1": "25",
+      "ADMIN_ID2": "2507",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បន្ទាយមានជ័យ",
+      "NAME_ENG1": "Banteay Meanchey",
+      "NAME2": "មង្គលបូរី",
+      "NAME_ENG2": "Mongkol Borei",
+      "ADMIN_ID1": "01",
+      "ADMIN_ID2": "0102",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បន្ទាយមានជ័យ",
+      "NAME_ENG1": "Banteay Meanchey",
+      "NAME2": "ភ្នំស្រុក",
+      "NAME_ENG2": "Phnum Srok",
+      "ADMIN_ID1": "01",
+      "ADMIN_ID2": "0103",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បន្ទាយមានជ័យ",
+      "NAME_ENG1": "Banteay Meanchey",
+      "NAME2": "ព្រះនេត្រព្រះ",
+      "NAME_ENG2": "Preah Netr Preah",
+      "ADMIN_ID1": "01",
+      "ADMIN_ID2": "0104",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បន្ទាយមានជ័យ",
+      "NAME_ENG1": "Banteay Meanchey",
+      "NAME2": "អូរជ្រៅ",
+      "NAME_ENG2": "Ou Chrov",
+      "ADMIN_ID1": "01",
+      "ADMIN_ID2": "0105",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បន្ទាយមានជ័យ",
+      "NAME_ENG1": "Banteay Meanchey",
+      "NAME2": "សិរីសោភ័ណ",
+      "NAME_ENG2": "Serei Saophoan",
+      "ADMIN_ID1": "01",
+      "ADMIN_ID2": "0106",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បន្ទាយមានជ័យ",
+      "NAME_ENG1": "Banteay Meanchey",
+      "NAME2": "ថ្មពួក",
+      "NAME_ENG2": "Thma Puok",
+      "ADMIN_ID1": "01",
+      "ADMIN_ID2": "0107",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បន្ទាយមានជ័យ",
+      "NAME_ENG1": "Banteay Meanchey",
+      "NAME2": "ស្វាយចេក",
+      "NAME_ENG2": "Svay Chek",
+      "ADMIN_ID1": "01",
+      "ADMIN_ID2": "0108",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បន្ទាយមានជ័យ",
+      "NAME_ENG1": "Banteay Meanchey",
+      "NAME2": "ម៉ាឡៃ",
+      "NAME_ENG2": "Malai",
+      "ADMIN_ID1": "01",
+      "ADMIN_ID2": "0109",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បន្ទាយមានជ័យ",
+      "NAME_ENG1": "Banteay Meanchey",
+      "NAME2": "ប៉ោយប៉ែត",
+      "NAME_ENG2": "Paoy Paet",
+      "ADMIN_ID1": "01",
+      "ADMIN_ID2": "0110",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បាត់ដំបង",
+      "NAME_ENG1": "Battambang",
+      "NAME2": "បាណន់",
+      "NAME_ENG2": "Banan",
+      "ADMIN_ID1": "02",
+      "ADMIN_ID2": "0201",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បាត់ដំបង",
+      "NAME_ENG1": "Battambang",
+      "NAME2": "ថ្មគោល",
+      "NAME_ENG2": "Thma Koul",
+      "ADMIN_ID1": "02",
+      "ADMIN_ID2": "0202",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បាត់ដំបង",
+      "NAME_ENG1": "Battambang",
+      "NAME2": "បាត់ដំបង",
+      "NAME_ENG2": "Battambang",
+      "ADMIN_ID1": "02",
+      "ADMIN_ID2": "0203",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បាត់ដំបង",
+      "NAME_ENG1": "Battambang",
+      "NAME2": "បវេល",
+      "NAME_ENG2": "Bavel",
+      "ADMIN_ID1": "02",
+      "ADMIN_ID2": "0204",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បាត់ដំបង",
+      "NAME_ENG1": "Battambang",
+      "NAME2": "ឯកភ្នំ",
+      "NAME_ENG2": "Aek Phnum",
+      "ADMIN_ID1": "02",
+      "ADMIN_ID2": "0205",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បាត់ដំបង",
+      "NAME_ENG1": "Battambang",
+      "NAME2": "មោងឫស្សី",
+      "NAME_ENG2": "Moung Ruessei",
+      "ADMIN_ID1": "02",
+      "ADMIN_ID2": "0206",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បាត់ដំបង",
+      "NAME_ENG1": "Battambang",
+      "NAME2": "រតនមណ្ឌល",
+      "NAME_ENG2": "Rotonak Mondol",
+      "ADMIN_ID1": "02",
+      "ADMIN_ID2": "0207",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បាត់ដំបង",
+      "NAME_ENG1": "Battambang",
+      "NAME2": "សង្កែ",
+      "NAME_ENG2": "Sangkae",
+      "ADMIN_ID1": "02",
+      "ADMIN_ID2": "0208",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បាត់ដំបង",
+      "NAME_ENG1": "Battambang",
+      "NAME2": "សំឡូត",
+      "NAME_ENG2": "Samlout",
+      "ADMIN_ID1": "02",
+      "ADMIN_ID2": "0209",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បាត់ដំបង",
+      "NAME_ENG1": "Battambang",
+      "NAME2": "សំពៅលូន",
+      "NAME_ENG2": "Sampov Lun",
+      "ADMIN_ID1": "02",
+      "ADMIN_ID2": "0210",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បាត់ដំបង",
+      "NAME_ENG1": "Battambang",
+      "NAME2": "ភ្នំព្រឹក",
+      "NAME_ENG2": "Phnum Proek",
+      "ADMIN_ID1": "02",
+      "ADMIN_ID2": "0211",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បាត់ដំបង",
+      "NAME_ENG1": "Battambang",
+      "NAME2": "កំរៀង",
+      "NAME_ENG2": "Kamrieng",
+      "ADMIN_ID1": "02",
+      "ADMIN_ID2": "0212",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បាត់ដំបង",
+      "NAME_ENG1": "Battambang",
+      "NAME2": "គាស់ក្រឡ",
+      "NAME_ENG2": "Koas Krala",
+      "ADMIN_ID1": "02",
+      "ADMIN_ID2": "0213",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "បាត់ដំបង",
+      "NAME_ENG1": "Battambang",
+      "NAME2": "រុក្ខគិរី",
+      "NAME_ENG2": "Rukh Kiri",
+      "ADMIN_ID1": "02",
+      "ADMIN_ID2": "0214",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ចាម",
+      "NAME_ENG1": "Kampong Cham",
+      "NAME2": "បាធាយ",
+      "NAME_ENG2": "Batheay",
+      "ADMIN_ID1": "03",
+      "ADMIN_ID2": "0301",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ចាម",
+      "NAME_ENG1": "Kampong Cham",
+      "NAME2": "ចំការលើ",
+      "NAME_ENG2": "Chamkar Leu",
+      "ADMIN_ID1": "03",
+      "ADMIN_ID2": "0302",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ចាម",
+      "NAME_ENG1": "Kampong Cham",
+      "NAME2": "ជើងព្រៃ",
+      "NAME_ENG2": "Cheung Prey",
+      "ADMIN_ID1": "03",
+      "ADMIN_ID2": "0303",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ចាម",
+      "NAME_ENG1": "Kampong Cham",
+      "NAME2": "កំពង់ចាម",
+      "NAME_ENG2": "Kampong Cham",
+      "ADMIN_ID1": "03",
+      "ADMIN_ID2": "0305",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ចាម",
+      "NAME_ENG1": "Kampong Cham",
+      "NAME2": "កំពង់សៀម",
+      "NAME_ENG2": "Kampong Siem",
+      "ADMIN_ID1": "03",
+      "ADMIN_ID2": "0306",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ចាម",
+      "NAME_ENG1": "Kampong Cham",
+      "NAME2": "កងមាស",
+      "NAME_ENG2": "Kang Meas",
+      "ADMIN_ID1": "03",
+      "ADMIN_ID2": "0307",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ចាម",
+      "NAME_ENG1": "Kampong Cham",
+      "NAME2": "កោះសូទិន",
+      "NAME_ENG2": "Kaoh Soutin",
+      "ADMIN_ID1": "03",
+      "ADMIN_ID2": "0308",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ចាម",
+      "NAME_ENG1": "Kampong Cham",
+      "NAME2": "ព្រៃឈរ",
+      "NAME_ENG2": "Prey Chhor",
+      "ADMIN_ID1": "03",
+      "ADMIN_ID2": "0313",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ចាម",
+      "NAME_ENG1": "Kampong Cham",
+      "NAME2": "ស្រីសន្ធរ",
+      "NAME_ENG2": "Srei Santhor",
+      "ADMIN_ID1": "03",
+      "ADMIN_ID2": "0314",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ចាម",
+      "NAME_ENG1": "Kampong Cham",
+      "NAME2": "ស្ទឹងត្រង់",
+      "NAME_ENG2": "Stueng Trang",
+      "ADMIN_ID1": "03",
+      "ADMIN_ID2": "0315",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ឆ្នាំង",
+      "NAME_ENG1": "Kampong Chhnang",
+      "NAME2": "បរិបូណ៌",
+      "NAME_ENG2": "Baribour",
+      "ADMIN_ID1": "04",
+      "ADMIN_ID2": "0401",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ឆ្នាំង",
+      "NAME_ENG1": "Kampong Chhnang",
+      "NAME2": "ជលគីរី",
+      "NAME_ENG2": "Chol Kiri",
+      "ADMIN_ID1": "04",
+      "ADMIN_ID2": "0402",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ឆ្នាំង",
+      "NAME_ENG1": "Kampong Chhnang",
+      "NAME2": "កំពង់ឆ្នាំង",
+      "NAME_ENG2": "Kampong Chhnang",
+      "ADMIN_ID1": "04",
+      "ADMIN_ID2": "0403",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ឆ្នាំង",
+      "NAME_ENG1": "Kampong Chhnang",
+      "NAME2": "កំពង់លែង",
+      "NAME_ENG2": "Kampong Leaeng",
+      "ADMIN_ID1": "04",
+      "ADMIN_ID2": "0404",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ឆ្នាំង",
+      "NAME_ENG1": "Kampong Chhnang",
+      "NAME2": "កំពង់ត្រឡាច",
+      "NAME_ENG2": "Kampong Tralach",
+      "ADMIN_ID1": "04",
+      "ADMIN_ID2": "0405",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ឆ្នាំង",
+      "NAME_ENG1": "Kampong Chhnang",
+      "NAME2": "រលាប្អៀរ",
+      "NAME_ENG2": "Rolea B'ier",
+      "ADMIN_ID1": "04",
+      "ADMIN_ID2": "0406",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ឆ្នាំង",
+      "NAME_ENG1": "Kampong Chhnang",
+      "NAME2": "សាមគ្គីមានជ័យ",
+      "NAME_ENG2": "Sameakki Mean Chey",
+      "ADMIN_ID1": "04",
+      "ADMIN_ID2": "0407",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ឆ្នាំង",
+      "NAME_ENG1": "Kampong Chhnang",
+      "NAME2": "ទឹកផុស",
+      "NAME_ENG2": "Tuek Phos",
+      "ADMIN_ID1": "04",
+      "ADMIN_ID2": "0408",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ស្ពឺ",
+      "NAME_ENG1": "Kampong Speu",
+      "NAME2": "បរសេដ្ឋ",
+      "NAME_ENG2": "Basedth",
+      "ADMIN_ID1": "05",
+      "ADMIN_ID2": "0501",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ស្ពឺ",
+      "NAME_ENG1": "Kampong Speu",
+      "NAME2": "ច្បារមន",
+      "NAME_ENG2": "Chbar Mon",
+      "ADMIN_ID1": "05",
+      "ADMIN_ID2": "0502",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ស្ពឺ",
+      "NAME_ENG1": "Kampong Speu",
+      "NAME2": "គងពិសី",
+      "NAME_ENG2": "Kong Pisei",
+      "ADMIN_ID1": "05",
+      "ADMIN_ID2": "0503",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ស្ពឺ",
+      "NAME_ENG1": "Kampong Speu",
+      "NAME2": "ឱរ៉ាល់",
+      "NAME_ENG2": "Aoral",
+      "ADMIN_ID1": "05",
+      "ADMIN_ID2": "0504",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ស្ពឺ",
+      "NAME_ENG1": "Kampong Speu",
+      "NAME2": "ឧដុង្គ",
+      "NAME_ENG2": "Odongk",
+      "ADMIN_ID1": "05",
+      "ADMIN_ID2": "0505",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ស្ពឺ",
+      "NAME_ENG1": "Kampong Speu",
+      "NAME2": "ភ្នំស្រួច",
+      "NAME_ENG2": "Phnum Sruoch",
+      "ADMIN_ID1": "05",
+      "ADMIN_ID2": "0506",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ស្ពឺ",
+      "NAME_ENG1": "Kampong Speu",
+      "NAME2": "សំរោងទង",
+      "NAME_ENG2": "Samraong Tong",
+      "ADMIN_ID1": "05",
+      "ADMIN_ID2": "0507",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ស្ពឺ",
+      "NAME_ENG1": "Kampong Speu",
+      "NAME2": "ថ្ពង",
+      "NAME_ENG2": "Thpong",
+      "ADMIN_ID1": "05",
+      "ADMIN_ID2": "0508",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ធំ",
+      "NAME_ENG1": "Kampong Thom",
+      "NAME2": "បារាយណ៍",
+      "NAME_ENG2": "Baray",
+      "ADMIN_ID1": "06",
+      "ADMIN_ID2": "0601",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ធំ",
+      "NAME_ENG1": "Kampong Thom",
+      "NAME2": "កំពង់ស្វាយ",
+      "NAME_ENG2": "Kampong Svay",
+      "ADMIN_ID1": "06",
+      "ADMIN_ID2": "0602",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ធំ",
+      "NAME_ENG1": "Kampong Thom",
+      "NAME2": "ស្ទឹងសែន",
+      "NAME_ENG2": "Stueng Saen",
+      "ADMIN_ID1": "06",
+      "ADMIN_ID2": "0603",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ធំ",
+      "NAME_ENG1": "Kampong Thom",
+      "NAME2": "ប្រាសាទបល្ល័ង្គ",
+      "NAME_ENG2": "Prasat Ballangk",
+      "ADMIN_ID1": "06",
+      "ADMIN_ID2": "0604",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ធំ",
+      "NAME_ENG1": "Kampong Thom",
+      "NAME2": "ប្រាសាទសំបូរ",
+      "NAME_ENG2": "Prasat Sambour",
+      "ADMIN_ID1": "06",
+      "ADMIN_ID2": "0605",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ធំ",
+      "NAME_ENG1": "Kampong Thom",
+      "NAME2": "សណ្ដាន់",
+      "NAME_ENG2": "Sandan",
+      "ADMIN_ID1": "06",
+      "ADMIN_ID2": "0606",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ធំ",
+      "NAME_ENG1": "Kampong Thom",
+      "NAME2": "សន្ទុក",
+      "NAME_ENG2": "Santuk",
+      "ADMIN_ID1": "06",
+      "ADMIN_ID2": "0607",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ធំ",
+      "NAME_ENG1": "Kampong Thom",
+      "NAME2": "ស្ទោង",
+      "NAME_ENG2": "Stoung",
+      "ADMIN_ID1": "06",
+      "ADMIN_ID2": "0608",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពង់ធំ",
+      "NAME_ENG1": "Kampong Thom",
+      "NAME2": "តាំងគោក",
+      "NAME_ENG2": "Taing Kouk",
+      "ADMIN_ID1": "06",
+      "ADMIN_ID2": "0609",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពត",
+      "NAME_ENG1": "Kampot",
+      "NAME2": "អង្គរជ័យ",
+      "NAME_ENG2": "Angkor Chey",
+      "ADMIN_ID1": "07",
+      "ADMIN_ID2": "0701",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពត",
+      "NAME_ENG1": "Kampot",
+      "NAME2": "បន្ទាយមាស",
+      "NAME_ENG2": "Banteay Meas",
+      "ADMIN_ID1": "07",
+      "ADMIN_ID2": "0702",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពត",
+      "NAME_ENG1": "Kampot",
+      "NAME2": "ឈូក",
+      "NAME_ENG2": "Chhuk",
+      "ADMIN_ID1": "07",
+      "ADMIN_ID2": "0703",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពត",
+      "NAME_ENG1": "Kampot",
+      "NAME2": "ជុំគិរី",
+      "NAME_ENG2": "Chum Kiri",
+      "ADMIN_ID1": "07",
+      "ADMIN_ID2": "0704",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពត",
+      "NAME_ENG1": "Kampot",
+      "NAME2": "ដងទង់",
+      "NAME_ENG2": "Dang Tong",
+      "ADMIN_ID1": "07",
+      "ADMIN_ID2": "0705",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពត",
+      "NAME_ENG1": "Kampot",
+      "NAME2": "កំពង់ត្រាច",
+      "NAME_ENG2": "Kampong Trach",
+      "ADMIN_ID1": "07",
+      "ADMIN_ID2": "0706",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពត",
+      "NAME_ENG1": "Kampot",
+      "NAME2": "ទឹកឈូ",
+      "NAME_ENG2": "Tuek Chhou",
+      "ADMIN_ID1": "07",
+      "ADMIN_ID2": "0707",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កំពត",
+      "NAME_ENG1": "Kampot",
+      "NAME2": "កំពត",
+      "NAME_ENG2": "Kampot",
+      "ADMIN_ID1": "07",
+      "ADMIN_ID2": "0708",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កណ្ដាល",
+      "NAME_ENG1": "Kandal",
+      "NAME2": "កណ្ដាលស្ទឹង",
+      "NAME_ENG2": "Kandal Stueng",
+      "ADMIN_ID1": "08",
+      "ADMIN_ID2": "0801",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កណ្ដាល",
+      "NAME_ENG1": "Kandal",
+      "NAME2": "កៀនស្វាយ",
+      "NAME_ENG2": "Kien Svay",
+      "ADMIN_ID1": "08",
+      "ADMIN_ID2": "0802",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កណ្ដាល",
+      "NAME_ENG1": "Kandal",
+      "NAME2": "ខ្សាច់កណ្ដាល",
+      "NAME_ENG2": "Khsach Kandal",
+      "ADMIN_ID1": "08",
+      "ADMIN_ID2": "0803",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កណ្ដាល",
+      "NAME_ENG1": "Kandal",
+      "NAME2": "កោះធំ",
+      "NAME_ENG2": "Kaoh Thum",
+      "ADMIN_ID1": "08",
+      "ADMIN_ID2": "0804",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កណ្ដាល",
+      "NAME_ENG1": "Kandal",
+      "NAME2": "លើកដែក",
+      "NAME_ENG2": "Leuk Daek",
+      "ADMIN_ID1": "08",
+      "ADMIN_ID2": "0805",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កណ្ដាល",
+      "NAME_ENG1": "Kandal",
+      "NAME2": "ល្វាឯម",
+      "NAME_ENG2": "Lvea Aem",
+      "ADMIN_ID1": "08",
+      "ADMIN_ID2": "0806",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កណ្ដាល",
+      "NAME_ENG1": "Kandal",
+      "NAME2": "មុខកំពូល",
+      "NAME_ENG2": "Mukh Kampul",
+      "ADMIN_ID1": "08",
+      "ADMIN_ID2": "0807",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កណ្ដាល",
+      "NAME_ENG1": "Kandal",
+      "NAME2": "អង្គស្នួល",
+      "NAME_ENG2": "Angk Snuol",
+      "ADMIN_ID1": "08",
+      "ADMIN_ID2": "0808",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កណ្ដាល",
+      "NAME_ENG1": "Kandal",
+      "NAME2": "ពញាឮ",
+      "NAME_ENG2": "Ponhea Lueu",
+      "ADMIN_ID1": "08",
+      "ADMIN_ID2": "0809",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កណ្ដាល",
+      "NAME_ENG1": "Kandal",
+      "NAME2": "ស្អាង",
+      "NAME_ENG2": "S'ang",
+      "ADMIN_ID1": "08",
+      "ADMIN_ID2": "0810",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កណ្ដាល",
+      "NAME_ENG1": "Kandal",
+      "NAME2": "តាខ្មៅ",
+      "NAME_ENG2": "Ta Khmau",
+      "ADMIN_ID1": "08",
+      "ADMIN_ID2": "0811",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កោះកុង",
+      "NAME_ENG1": "Koh Kong",
+      "NAME2": "បុទុមសាគរ",
+      "NAME_ENG2": "Botum Sakor",
+      "ADMIN_ID1": "09",
+      "ADMIN_ID2": "0901",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កោះកុង",
+      "NAME_ENG1": "Koh Kong",
+      "NAME2": "គិរីសាគរ",
+      "NAME_ENG2": "Kiri Sakor",
+      "ADMIN_ID1": "09",
+      "ADMIN_ID2": "0902",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កោះកុង",
+      "NAME_ENG1": "Koh Kong",
+      "NAME2": "កោះកុង",
+      "NAME_ENG2": "Kaoh Kong",
+      "ADMIN_ID1": "09",
+      "ADMIN_ID2": "0903",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កោះកុង",
+      "NAME_ENG1": "Koh Kong",
+      "NAME2": "ខេមរភូមិន្ទ",
+      "NAME_ENG2": "Khemara Phoumin",
+      "ADMIN_ID1": "09",
+      "ADMIN_ID2": "0904",
+      "city": true
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កោះកុង",
+      "NAME_ENG1": "Koh Kong",
+      "NAME2": "មណ្ឌលសីមា",
+      "NAME_ENG2": "Mondol Seima",
+      "ADMIN_ID1": "09",
+      "ADMIN_ID2": "0905",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កោះកុង",
+      "NAME_ENG1": "Koh Kong",
+      "NAME2": "ស្រែ អំបិល",
+      "NAME_ENG2": "Srae Ambel",
+      "ADMIN_ID1": "09",
+      "ADMIN_ID2": "0906",
+      "city": false
+    }
+  },
+  {
+    "properties": {
+      "NAME1": "កោះកុង",
+      "NAME_ENG1": "Koh Kong",
+      "NAME2": "ថ្មបាំង",
+      "NAME_ENG2": "Thma Bang",
+      "ADMIN_ID1": "09",
+      "ADMIN_ID2": "0907",
+      "city": false
+    }
+  }
+]

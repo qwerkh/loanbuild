@@ -1,0 +1,275 @@
+[{
+	"properties" : {
+		"ADMIN_ID1" : "08",
+		"NAME1" : "កណ្តាល",
+		"NAME_ENG1" : "Kandal",
+		"OBJECTID" : 1,
+		"Shape_Area" : 0.269868637515,
+		"Shape_Leng" : 5.40244655423
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "23",
+		"NAME1" : "កែប",
+		"NAME_ENG1" : "Kep",
+		"OBJECTID" : 2,
+		"Shape_Area" : 0.0126213662535,
+		"Shape_Leng" : 0.854550867251
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "09",
+		"NAME1" : "កោះកុង",
+		"NAME_ENG1" : "Koh Kong",
+		"OBJECTID" : 3,
+		"Shape_Area" : 0.915512266333,
+		"Shape_Leng" : 7.37703948318
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "03",
+		"NAME1" : "កំពង់ចាម",
+		"NAME_ENG1" : "Kampong Cham",
+		"OBJECTID" : 5,
+		"Shape_Area" : 0.37807474347,
+		"Shape_Leng" : 4.37595349278
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "04",
+		"NAME1" : "កំពង់ឆ្នាំង",
+		"NAME_ENG1" : "Kampong Chhnang",
+		"OBJECTID" : 6,
+		"Shape_Area" : 0.440129471288,
+		"Shape_Leng" : 4.19338712716
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "06",
+		"NAME1" : "កំពង់ធំ",
+		"NAME_ENG1" : "Kampong Thom",
+		"OBJECTID" : 7,
+		"Shape_Area" : 1.03712631274,
+		"Shape_Leng" : 6.9769834769
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "05",
+		"NAME1" : "កំពង់ស្ពឺ",
+		"NAME_ENG1" : "Kampong Speu",
+		"OBJECTID" : 8,
+		"Shape_Area" : 0.577560860284,
+		"Shape_Leng" : 4.49796741926
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "07",
+		"NAME1" : "កំពត",
+		"NAME_ENG1" : "Kampot",
+		"OBJECTID" : 9,
+		"Shape_Area" : 0.390793382037,
+		"Shape_Leng" : 3.85514584171
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "10",
+		"NAME1" : "ក្រចេះ",
+		"NAME_ENG1" : "Kratie",
+		"OBJECTID" : 4,
+		"Shape_Area" : 0.997242196677,
+		"Shape_Leng" : 6.47214698659
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "21",
+		"NAME1" : "តាកែវ",
+		"NAME_ENG1" : "Takeo",
+		"OBJECTID" : 10,
+		"Shape_Area" : 0.288894723713,
+		"Shape_Leng" : 3.1372195366
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "25",
+		"NAME1" : "ត្បូងឃ្មុំ",
+		"NAME_ENG1" : "Tbuong Kmoum",
+		"OBJECTID" : 11,
+		"Shape_Area" : 0.409313358435,
+		"Shape_Leng" : 4.21696904485
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "01",
+		"NAME1" : "បន្ទាយមានជ័យ",
+		"NAME_ENG1" : "Banteay Meanchey",
+		"OBJECTID" : 12,
+		"Shape_Area" : 0.512827206891,
+		"Shape_Leng" : 4.87937894612
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "02",
+		"NAME1" : "បាត់ដំបង",
+		"NAME_ENG1" : "Battambang",
+		"OBJECTID" : 14,
+		"Shape_Area" : 0.988293379461,
+		"Shape_Leng" : 6.33918116464
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "24",
+		"NAME1" : "ប៉ៃលិន",
+		"NAME_ENG1" : "Pailin",
+		"OBJECTID" : 13,
+		"Shape_Area" : 0.0894837465673,
+		"Shape_Leng" : 1.52262665525
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "15",
+		"NAME1" : "ពោធ៌សាត់",
+		"NAME_ENG1" : "Pursat",
+		"OBJECTID" : 15,
+		"Shape_Area" : 0.962862986082,
+		"Shape_Leng" : 7.10190587778
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "14",
+		"NAME1" : "ព្រៃវែង",
+		"NAME_ENG1" : "Prey Veng",
+		"OBJECTID" : 16,
+		"Shape_Area" : 0.394703869629,
+		"Shape_Leng" : 3.61807332952
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "13",
+		"NAME1" : "ព្រះវិហារ",
+		"NAME_ENG1" : "Preah Vihear",
+		"OBJECTID" : 17,
+		"Shape_Area" : 1.17281351005,
+		"Shape_Leng" : 6.70443024578
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "18",
+		"NAME1" : "ព្រះសីហនុ",
+		"NAME_ENG1" : "Preah Sihanouk",
+		"OBJECTID" : 18,
+		"Shape_Area" : 0.214825051983,
+		"Shape_Leng" : 5.83576946506
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "12",
+		"NAME1" : "ភ្នំពេញ",
+		"NAME_ENG1" : "Phnom Penh",
+		"OBJECTID" : 19,
+		"Shape_Area" : 0.0567641320899,
+		"Shape_Leng" : 1.52712889483
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "11",
+		"NAME1" : "មណ្ឌលគីរី",
+		"NAME_ENG1" : "Mondul Kiri",
+		"OBJECTID" : 20,
+		"Shape_Area" : 1.13750326271,
+		"Shape_Leng" : 6.34618112924
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "16",
+		"NAME1" : "រតនគីរី",
+		"NAME_ENG1" : "Ratanak Kiri",
+		"OBJECTID" : 21,
+		"Shape_Area" : 0.984740789935,
+		"Shape_Leng" : 6.43105133459
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "17",
+		"NAME1" : "សៀមរាប",
+		"NAME_ENG1" : "Siem Reap",
+		"OBJECTID" : 22,
+		"Shape_Area" : 0.881448966432,
+		"Shape_Leng" : 5.60315742393
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "19",
+		"NAME1" : "ស្ទឹងត្រែង",
+		"NAME_ENG1" : "Stung Treng",
+		"OBJECTID" : 23,
+		"Shape_Area" : 1.00494964053,
+		"Shape_Leng" : 6.45008517281
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "20",
+		"NAME1" : "ស្វាយរៀង",
+		"NAME_ENG1" : "Svay Rieng",
+		"OBJECTID" : 24,
+		"Shape_Area" : 0.237530894261,
+		"Shape_Leng" : 3.16509486141
+	},
+	"type" : "Feature"
+},
+{
+	"properties" : {
+		"ADMIN_ID1" : "22",
+		"NAME1" : "ឧត្តមានជ័យ",
+		"NAME_ENG1" : "Otdar Meanchey",
+		"OBJECTID" : 25,
+		"Shape_Area" : 0.552228283722,
+		"Shape_Leng" : 4.79885324437
+	},
+	"type" : "Feature"
+}]
